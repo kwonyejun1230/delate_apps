@@ -1,0 +1,2 @@
+@del ALCapture
+@del ALCaptureEditor
